@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatAppClient</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_profile_screen">ProfileScreen</string>
+    <string name="title_activity_change_password_screen">ChangePasswordScreen</string>
+    <string name="title_activity_forgot_pass_screen">ForgotPassScreen</string>
+</resources>
